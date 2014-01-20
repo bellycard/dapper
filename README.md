@@ -4,12 +4,16 @@ dapper
 
 ### One time Installation
 Install [NVM](https://github.com/creationix/nvm) (Recommended)
- 
+
     $ curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
-Install node
+Install Node using NVM
 
-    $ brew install node
+    $ nvm install 0.10.24
+
+  *...wait a bit...*
+
+    $ nvm alias default 0.10.24
 
 Install Grunt's command line interface, globally
 
