@@ -15,9 +15,10 @@ Install Node using NVM
 
     $ nvm alias default 0.10.24
 
-Install Grunt's command line interface, globally
+Install global npm packages
 
     $ npm install -g grunt-cli
+    $ npm install -g coffee
 
 ### Starting the server
 
