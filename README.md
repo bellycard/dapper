@@ -25,6 +25,7 @@ Install global npm packages
 Ensure all package dependencies have been installed
 
     $ npm install
+    $ npm link
     $ bower install
 
 Start the server

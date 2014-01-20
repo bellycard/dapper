@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {},
+  "bin": {
+    "suit": "./lib/suit.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
