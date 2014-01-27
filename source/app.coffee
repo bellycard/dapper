@@ -1,1 +1,3 @@
-# Code goes here
+'use strict';
+
+angular.module('dapper', ['dapper.home'])

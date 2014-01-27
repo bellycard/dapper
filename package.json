@@ -21,6 +21,20 @@
     "grunt-mkdir": "~0.1.1",
     "grunt-bower": "~0.7.0",
     "grunt-jade": "~0.4.0",
-    "matchdep": "~0.3.0"
+    "grunt-karma": "~0.6.2",
+    "matchdep": "~0.3.0",
+    "karma-coverage": "~0.1.4",
+    "karma": "~0.10.9",
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-coffee-preprocessor": "~0.1.2",
+    "karma-firefox-launcher": "~0.1.3",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "grunt-bower-concat": "~0.2.3",
+    "grunt-angular-templates": "~0.5.1",
+    "grunt-env": "~0.4.1",
+    "grunt-preprocess": "~4.0.0"
   }
 }
